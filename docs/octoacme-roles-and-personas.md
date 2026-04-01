@@ -97,7 +97,7 @@ Works closely with Product Manager in discovery; supports Developers during impl
 Maintains CI/CD pipelines, cloud infrastructure, and automation; supports release and disaster recovery.
 
 ### Responsibilities
-- Setup and maintain automated build, deploy, and monitoring pipelines
+- Set up and maintain automated build, deploy, and monitoring pipelines
 - Ensure environments meet security and compliance standards
 - Respond to incidents and infrastructure issues
 
